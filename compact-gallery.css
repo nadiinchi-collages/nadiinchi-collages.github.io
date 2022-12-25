@@ -291,6 +291,11 @@ background: #ddd;
 
 /* ABOUT ME SECTION */
 
+#about-page{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  }
+
 #about-me{
   font-size: 15px;
   text-align: center;
