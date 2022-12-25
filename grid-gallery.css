@@ -29,7 +29,7 @@
   margin-bottom: 20px;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px, max-height: 576px) {
 
   .gallery-block.grid-gallery .scale-on-hover:hover{
     transform: scale(1.05);
