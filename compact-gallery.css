@@ -55,7 +55,7 @@ p{
 body{
 background-repeat: no-repeat;
 background-size: cover;
-background-color: #F2F3F4;
+background-color: #E5E7E9;
 padding-bottom: 10px;
 
 }
@@ -232,8 +232,8 @@ background: #ddd;
 /* CARD GALLERY.CSS */
 
 .gallery-block{
-	padding-bottom: 60px;
-	padding-top: 60px;
+	padding-bottom: 30px;
+	padding-top: 30px;
 }
 
 .gallery-block .heading{
